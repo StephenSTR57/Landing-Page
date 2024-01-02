@@ -16,7 +16,7 @@ Clone the repository or download the ZIP file.
 
 bash
 Copy code
-git clone https://github.com/yourusername/taxpal-landing-page.git
+git clone https://github.com/StephenSTR57/landing-page.git
 Navigate to the project directory:
 
 bash
